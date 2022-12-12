@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170685540861",
+    "firebase_url": "https://app-usage-tracker-46315-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "app-usage-tracker-46315",
+    "storage_bucket": "app-usage-tracker-46315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170685540861:android:7b0219f8c02dd7e9875194",
+        "android_client_info": {
+          "package_name": "com.prototype.AppUsageTrackerDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170685540861-ostqlscakq47s04blmnkduo0dvq36g0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-C-jE7sTDJHRHSk54_NcLVayLjG9ATI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170685540861-ostqlscakq47s04blmnkduo0dvq36g0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
